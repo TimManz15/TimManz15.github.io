@@ -73,3 +73,12 @@
     top: 113px;
     left: 288px;
 }
+
+.console option {
+    color: #FF6F3A;
+    background: #1a1a1a;
+}
+
+.console.xbox, .console.xbox-old {
+    background: url('icons/xbx.png') no-repeat center;
+}
