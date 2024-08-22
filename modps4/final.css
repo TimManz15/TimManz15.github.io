@@ -19,7 +19,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(abxymod.png);
+    background: url(facemod.png);
 }
 
 .ds4 .button.pressed {
@@ -59,7 +59,7 @@
 
 .ds4 .stick {
     position: absolute;
-    background: url(stickmod.png);
+    background: url(sticksmod.png);
     height: 94px;
     width: 94px;
 }
